@@ -226,8 +226,7 @@ function create_config( )
     "leave_ban",
     "admin43723991,111020322,0,tonumber 302383135},--Sud
     about_text = [[Teleseed v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
-302383135https://github.com/SEEDTEAM/TeleSeed
+ 302383135
 
 Our team!
 Alphonse (@Iwals)
